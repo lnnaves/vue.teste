@@ -6,7 +6,7 @@
           :src="require('../assets/logo.svg')"
           class="my-3"
           contain
-          height="300"
+          height="400"
         />
       </v-col>
 
@@ -93,7 +93,7 @@
 
 <script>
   export default {
-    name: 'HelloWorld',
+    name: 'Nome Alterado',
 
     data: () => ({
       ecosystem: [
