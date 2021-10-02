@@ -26,3 +26,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 alterei o readme.md remotamente
 
 atualizando o readme.md localmente(vscode)
+*html
